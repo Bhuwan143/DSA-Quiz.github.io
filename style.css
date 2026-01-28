@@ -90,10 +90,6 @@ body {
 }
 
 
-.copyright i {
-    color: #fff;
-}
-
 @media only screen and (max-width: 600px) {
     .app {
         width: 95%;
@@ -106,6 +102,7 @@ body {
         padding: 12px;
     }
 }
+
 
 
 
